@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently going deep into ML and fiddling around with Julia
+- I'm currently going deep into ML, fiddling around with Julia and also learning web development. 
 - I'm interest in Machine learning, Quantitative Finance, Econometrics and related topics.
 <!--
 **NewmoodClown/NewmoodClown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
